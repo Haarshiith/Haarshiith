@@ -1,3 +1,8 @@
+<h1 align="center"> Hello Fellow < Developers /> 👋</h1>
+<p align="center">
+  <b>M.Sc AI Student 🎓 | Software Engineer 💻 | Machine Learning Enthusiast 🤖</b>
+</p>
+  
 # 👋 Hi, I'm Harshith Babu
 
 🎓 **Master's Student in Artificial Intelligence** @ [THWS, Germany](https://www.thws.de/)  
@@ -85,4 +90,4 @@ From **reinforcement learning agents** in simulated environments to **embedded A
 
 ---
 
-> _"Building AI solutions that make a real-world impact."_ 🚀
+> _"Building AI solutions that make a real-world impact."_ 🚀  
