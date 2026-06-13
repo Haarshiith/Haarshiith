@@ -6,7 +6,7 @@
 ---
 
 # 👋 Hi, I'm Harshith Babu  
-AI Intern @ BMW Group
+**AI Intern @ BMW Group**
 🎓 **Master's in Artificial Intelligence @ [THWS, Germany](https://www.thws.de/)**  
 💻 **AI/ML Developer | Python Full Stack Engineer**  
 🌍 Based in Würzburg, Germany  
