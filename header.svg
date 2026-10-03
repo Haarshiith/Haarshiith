@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Harshith Babu, M.Sc. AI student and GenAI intern at BMW Group. Skills: RAG, LLM agents, computer vision, edge AI, full stack.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a2233"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff9d"/>
+      <stop offset="1" stop-color="#00e5ff"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .sans { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .pill { fill: rgba(0,229,255,0.08); stroke: rgba(0,229,255,0.45); stroke-width: 1; }
+      .pilltxt { fill: #9eeeff; font-size: 14px; }
+      .edge { stroke: #00e5ff; stroke-opacity: 0.22; stroke-width: 1; }
+      .node { fill: #00ff9d; animation: pulse 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .n2 { animation-delay: 0.5s; fill: #00e5ff; }
+      .n3 { animation-delay: 1.0s; fill: #b347ff; }
+      .n4 { animation-delay: 1.5s; }
+      .cursor { animation: blink 1s step-end infinite; }
+      .glow { animation: drift 6s ease-in-out infinite alternate; }
+      @keyframes pulse { 0%,100% { opacity: .45; transform: scale(.85);} 50% { opacity: 1; transform: scale(1.25);} }
+      @keyframes blink { 0%,100% { opacity: 1;} 50% { opacity: 0;} }
+      @keyframes drift { from { transform: translate(0,0);} to { transform: translate(18px,-10px);} }
+    </style>
+  </defs>
+
+  <rect width="1000" height="340" rx="18" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="999" height="339" rx="18" fill="none" stroke="rgba(0,229,255,0.35)"/>
+  <circle class="glow" cx="860" cy="60" r="110" fill="rgba(0,229,255,0.07)"/>
+
+  <!-- top tag -->
+  <rect x="60" y="42" width="190" height="28" rx="14" fill="rgba(0,255,157,0.10)" stroke="rgba(0,255,157,0.5)"/>
+  <text class="mono" x="155" y="61" text-anchor="middle" font-size="13" fill="#00ff9d">M.Sc. AI · THWS</text>
+
+  <!-- name -->
+  <text class="sans" x="58" y="144" font-size="62" font-weight="800" fill="url(#name)">Harshith Babu</text>
+
+  <!-- role line -->
+  <text class="mono" x="60" y="186" font-size="20" fill="#e6edf3">GenAI Intern @ BMW Group<tspan class="cursor" fill="#00ff9d"> _</tspan></text>
+  <text class="mono" x="60" y="212" font-size="14" fill="#8b949e">turning research into real-world AI systems</text>
+
+  <!-- skill pills -->
+  <rect class="pill" x="60"  y="244" width="53"  height="34" rx="17"/>
+  <text class="mono pilltxt" x="86.5" y="266" text-anchor="middle">RAG</text>
+
+  <rect class="pill" x="125" y="244" width="112" height="34" rx="17"/>
+  <text class="mono pilltxt" x="181" y="266" text-anchor="middle">LLM Agents</text>
+
+  <rect class="pill" x="249" y="244" width="154" height="34" rx="17"/>
+  <text class="mono pilltxt" x="326" y="266" text-anchor="middle">Computer Vision</text>
+
+  <rect class="pill" x="415" y="244" width="87"  height="34" rx="17"/>
+  <text class="mono pilltxt" x="458.5" y="266" text-anchor="middle">Edge AI</text>
+
+  <rect class="pill" x="514" y="244" width="112" height="34" rx="17"/>
+  <text class="mono pilltxt" x="570" y="266" text-anchor="middle">Full Stack</text>
+
+  <!-- neural network graphic -->
+  <g>
+    <!-- layer 1 -> layer 2 -->
+    <line class="edge" x1="730" y1="90"  x2="820" y2="120"/>
+    <line class="edge" x1="730" y1="90"  x2="820" y2="180"/>
+    <line class="edge" x1="730" y1="90"  x2="820" y2="240"/>
+    <line class="edge" x1="730" y1="150" x2="820" y2="120"/>
+    <line class="edge" x1="730" y1="150" x2="820" y2="180"/>
+    <line class="edge" x1="730" y1="150" x2="820" y2="240"/>
+    <line class="edge" x1="730" y1="210" x2="820" y2="120"/>
+    <line class="edge" x1="730" y1="210" x2="820" y2="180"/>
+    <line class="edge" x1="730" y1="210" x2="820" y2="240"/>
+    <line class="edge" x1="730" y1="270" x2="820" y2="120"/>
+    <line class="edge" x1="730" y1="270" x2="820" y2="180"/>
+    <line class="edge" x1="730" y1="270" x2="820" y2="240"/>
+    <!-- layer 2 -> layer 3 -->
+    <line class="edge" x1="820" y1="120" x2="910" y2="150"/>
+    <line class="edge" x1="820" y1="120" x2="910" y2="210"/>
+    <line class="edge" x1="820" y1="180" x2="910" y2="150"/>
+    <line class="edge" x1="820" y1="180" x2="910" y2="210"/>
+    <line class="edge" x1="820" y1="240" x2="910" y2="150"/>
+    <line class="edge" x1="820" y1="240" x2="910" y2="210"/>
+
+    <circle class="node"      cx="730" cy="90"  r="7"/>
+    <circle class="node n2"   cx="730" cy="150" r="7"/>
+    <circle class="node n3"   cx="730" cy="210" r="7"/>
+    <circle class="node n4"   cx="730" cy="270" r="7"/>
+    <circle class="node n2"   cx="820" cy="120" r="8"/>
+    <circle class="node n3"   cx="820" cy="180" r="8"/>
+    <circle class="node"      cx="820" cy="240" r="8"/>
+    <circle class="node n4"   cx="910" cy="150" r="9"/>
+    <circle class="node n2"   cx="910" cy="210" r="9"/>
+  </g>
+</svg>
