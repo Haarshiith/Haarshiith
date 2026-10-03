@@ -6,14 +6,15 @@
   <a href="https://linkedin.com/in/harshith28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:harshith227@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- TODO: replace with your real portfolio URL -->
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
+  <a href="https://haarshiith.github.io/"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
 </p>
 
 ---
 
 ## 👋 About
 
-I build end-to-end AI applications: ML models wrapped in scalable full-stack systems with Python, React and SQL. I'm doing my **M.Sc. in Artificial Intelligence at [THWS](https://www.thws.de/)** (Germany) and work on practical, data-driven systems that automate real workflows.
+I build end-to-end AI applications: ML models wrapped in scalable full-stack systems with Python, React and SQL.
+I'm doing my **Masters in Artificial Intelligence at [THWS](https://www.thws.de/)** (Germany) and work on practical, data-driven systems that automate real workflows.
 
 ## 🔭 What I'm Working On Now
 
@@ -97,7 +98,7 @@ I build end-to-end AI applications: ML models wrapped in scalable full-stack sys
 
 ## 🎓 Education
 
-- **M.Sc. Artificial Intelligence**, THWS Würzburg-Schweinfurt (Mar 2025 – present)
+- **Masters in Artificial Intelligence**, THWS Würzburg-Schweinfurt (Mar 2025 – present)
 - **B.Tech Electronics & Computer Engineering**, SRM Institute of Science and Technology (2019 – 2023)
 
 ## 📊 GitHub Stats
