@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Harshith+Babu+Prakash+Babu;M.Sc.+AI+Student+%7C+GenAI+Intern+%40+BMW+Group;RAG+%7C+Computer+Vision+%7C+Edge+AI+%7C+Full+Stack" alt="Typing SVG" />
+  <img src="assets/header.svg" alt="Harshith Babu, Masters in AI student and GenAI intern at BMW Group. RAG, LLM agents, computer vision, edge AI, full stack." width="100%" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/harshith28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:harshith227@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- TODO: replace with your real portfolio URL -->
   <a href="https://haarshiith.github.io/"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
 </p>
 
@@ -13,8 +12,7 @@
 
 ## 👋 About
 
-I build end-to-end AI applications: ML models wrapped in scalable full-stack systems with Python, React and SQL.
-I'm doing my **Masters in Artificial Intelligence at [THWS](https://www.thws.de/)** (Germany) and work on practical, data-driven systems that automate real workflows.
+I build end-to-end AI applications: ML models wrapped in scalable full-stack systems with Python, React and SQL. I'm doing my **Masters in Artificial Intelligence at [THWS](https://www.thws.de/)** (Germany) and work on practical, data-driven systems that automate real workflows.
 
 ## 🔭 What I'm Working On Now
 
@@ -109,8 +107,11 @@ I'm doing my **Masters in Artificial Intelligence at [THWS](https://www.thws.de/
 </p>
 
 <p align="center">
-  <!-- Raw URL so the SVG renders. Requires the snake workflow to be pushing to the `output` branch. -->
-  <img src="https://raw.githubusercontent.com/Haarshiith/Haarshiith/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haarshiith/Haarshiith/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haarshiith/Haarshiith/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Haarshiith/Haarshiith/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
