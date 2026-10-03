@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Harshith Babu, M.Sc. AI student and GenAI intern at BMW Group. Skills: RAG, LLM agents, computer vision, edge AI, full stack.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Harshith Babu, Masters in AI student and GenAI intern at BMW Group. Skills: RAG, LLM agents, computer vision, edge AI, full stack.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -32,7 +32,7 @@
 
   <!-- top tag -->
   <rect x="60" y="42" width="190" height="28" rx="14" fill="rgba(0,255,157,0.10)" stroke="rgba(0,255,157,0.5)"/>
-  <text class="mono" x="155" y="61" text-anchor="middle" font-size="13" fill="#00ff9d">M.Sc. AI · THWS</text>
+  <text class="mono" x="155" y="61" text-anchor="middle" font-size="13" fill="#00ff9d">Masters in AI · THWS</text>
 
   <!-- name -->
   <text class="sans" x="58" y="144" font-size="62" font-weight="800" fill="url(#name)">Harshith Babu</text>
