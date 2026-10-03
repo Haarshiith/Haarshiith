@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Harshith Babu, Masters in AI student and GenAI intern at BMW Group. RAG, LLM agents, computer vision, edge AI, full stack." width="100%" />
+  <img src="header.svg" alt="Harshith Babu, Masters in AI student and GenAI intern at BMW Group. RAG, LLM agents, computer vision, edge AI, full stack." width="100%" />
 </p>
 
 <p align="center">
